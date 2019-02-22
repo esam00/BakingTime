@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_to_recipe">recipe</string>
+    <string name="key_to_step_id">stepId</string>
+    <integer name="smallest_screen_width">600</integer>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="last_step">Previous</string>
+    <string name="next_step">Next</string>
+    <string name="no_video">No video available</string>
+    <string name="empty_view_text">No recipe selected</string>
+    <string name="appwidget_text">Ingredients:\n</string>
+
+</resources>
